@@ -1,0 +1,1 @@
+Exercicios técnicos 1, 2 e 3 do estágio da Target Sistemas e feito na linguagem Java, e colocados juntos e com uma leve orientação a objeto por organização e costume meu, feitos no dia 11/10/24
